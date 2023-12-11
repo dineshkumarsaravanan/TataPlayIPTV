@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,SUN TV HD
+http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:c8:af:f1&stream=155880&extension=ts&play_token=PdruQVIeeg
 #EXTINF:-1,JAYA MAX
 http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:c8:af:f1&stream=155893&extension=ts&play_token=OHRRwu18kK
 #EXTINF:-1,JAYA TV HD
@@ -13,8 +15,7 @@ http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:c8:af:f1&stream=281855&exte
 http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:c8:af:f1&stream=155876&extension=ts&play_token=rgDLJPGVOO
 #EXTINF:-1,ZEE THIRAI
 http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:c8:af:f1&stream=155912&extension=ts&play_token=BI0TpvOIjJ
-#EXTINF:-1,SUN TV HD
-http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:c8:af:f1&stream=155880&extension=ts&play_token=PdruQVIeeg
+
 #EXTINF:-1,SUN TV HD (BP)
 http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:c8:af:f1&stream=369375&extension=ts&play_token=kBcuwcOkVG
 #EXTINF:-1,SUN LIFE
