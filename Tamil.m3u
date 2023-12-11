@@ -126,6 +126,10 @@ http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:c8:af:f1&stream=155914&exte
 #EXTINF:-1,NEWS J
 http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:c8:af:f1&stream=281895&extension=ts&play_token=0awXroSSNB
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=525&key
+#EXTINF:-1 tvg-id=ts525 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12002-j9nrtf08-v2/imageContent-12002-j9nrtf08-m2.png" group-title="Tata Sky",Raj News Tamil
+http://rftv.wtf/tp/rjiptv.mpd?contentID=525
 
 #EXTINF:-1,SUN NEWS TAMIL
 http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:c8:af:f1&stream=155890&extension=ts&play_token=aAO3WQp8Z1
@@ -242,8 +246,3 @@ http://starshare.live:8080/live/123456/654321/66162.ts
 
 #EXTINF:-1,BIG BOSS 24*7 LIVE
 http://livetvbox.live:8080/live/Stanley/Stanley/223574.ts
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=525&key
-#EXTINF:-1 tvg-id=ts525 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12002-j9nrtf08-v2/imageContent-12002-j9nrtf08-m2.png" group-title="Tata Sky",Raj News Tamil
-http://rftv.wtf/tp/rjiptv.mpd?contentID=525
