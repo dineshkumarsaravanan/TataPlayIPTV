@@ -17,7 +17,7 @@ http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:c8:af:f1&stream=281855&exte
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=200&key
-#EXTINF:-1 tvg-id=ts200 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-819-j5m8fsfs-v1/imageContent-819-j5m8fsfs-m1.png" group-title="Tata Sky",Kalaignar TV
+#EXTINF:-1 tvg-id=ts200 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-819-j5m8fsfs-v1/imageContent-819-j5m8fsfs-m1.png" group-title=" ",Kalaignar TV
 http://rftv.wtf/tp/rjiptv.mpd?contentID=200
 
 #EXTINF:-1,ZEE TAMIL HD
@@ -32,7 +32,7 @@ http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:c8:af:f1&stream=155878&exte
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=411&key
-#EXTINF:-1 tvg-id=ts411 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11616-j9k04eo0-v1/imageContent-11616-j9k04eo0-m1.png" group-title="Tata Sky",Murasu TV
+#EXTINF:-1 tvg-id=ts411 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11616-j9k04eo0-v1/imageContent-11616-j9k04eo0-m1.png" group-title=" ",Murasu TV
 http://rftv.wtf/tp/rjiptv.mpd?contentID=411
 
 
@@ -66,12 +66,12 @@ http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:c8:af:f1&stream=155904&exte
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=392&key
-#EXTINF:-1 tvg-id=ts392 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11565-j9jv0np4-v1/imageContent-11565-j9jv0np4-m1.png" group-title="Tata Sky",Makkal TV
+#EXTINF:-1 tvg-id=ts392 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11565-j9jv0np4-v1/imageContent-11565-j9jv0np4-m1.png" group-title=" ",Makkal TV
 http://rftv.wtf/tp/rjiptv.mpd?contentID=392
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=37&key
-#EXTINF:-1 tvg-id=ts37 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-111-j5fl5xo8-v1/imageContent-111-j5fl5xo8-m1.png" group-title="Tata Sky",Mega TV
+#EXTINF:-1 tvg-id=ts37 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-111-j5fl5xo8-v1/imageContent-111-j5fl5xo8-m1.png" group-title=" ",Mega TV
 http://rftv.wtf/tp/rjiptv.mpd?contentID=37
 
 #EXTINF:-1,VASANTH
@@ -79,7 +79,7 @@ http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:c8:af:f1&stream=1097668&ext
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=659&key
-#EXTINF:-1 tvg-id=ts659 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-31187-jldgeg1k-v2/imageContent-31187-jldgeg1k-m2.png" group-title="Tata Sky",Vendhar TV
+#EXTINF:-1 tvg-id=ts659 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-31187-jldgeg1k-v2/imageContent-31187-jldgeg1k-m2.png" group-title=" ",Vendhar TV
 http://rftv.wtf/tp/rjiptv.mpd?contentID=659
 
 #EXTINF:-1,7S MUSIC
@@ -87,7 +87,7 @@ http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:c8:af:f1&stream=281866&exte
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=647&key
-#EXTINF:-1 tvg-id=ts647 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-24578-jgotgry0-v1/imageContent-24578-jgotgry0-m1.png" group-title="Tata Sky",Isaiaruvi
+#EXTINF:-1 tvg-id=ts647 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-24578-jgotgry0-v1/imageContent-24578-jgotgry0-m1.png" group-title=" ",Isaiaruvi
 http://rftv.wtf/tp/rjiptv.mpd?contentID=647
 
 #EXTINF:-1,SUN MUSIC HD
@@ -101,7 +101,7 @@ http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:c8:af:f1&stream=1097671&ext
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=425&key
-#EXTINF:-1 tvg-id=ts425 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11682-j9khxjoo-v1/imageContent-11682-j9khxjoo-m1.png" group-title="Tata Sky",Raj Musix
+#EXTINF:-1 tvg-id=ts425 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11682-j9khxjoo-v1/imageContent-11682-j9khxjoo-m1.png" group-title=" ",Raj Musix
 http://rftv.wtf/tp/rjiptv.mpd?contentID=425
 
 #EXTINF:-1,ADHTIYA TV
@@ -128,7 +128,7 @@ http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:c8:af:f1&stream=281895&exte
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=525&key
-#EXTINF:-1 tvg-id=ts525 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12002-j9nrtf08-v2/imageContent-12002-j9nrtf08-m2.png" group-title="Tata Sky",Raj News Tamil
+#EXTINF:-1 tvg-id=ts525 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12002-j9nrtf08-v2/imageContent-12002-j9nrtf08-m2.png" group-title=" ",Raj News Tamil
 http://rftv.wtf/tp/rjiptv.mpd?contentID=525
 
 #EXTINF:-1,SUN NEWS TAMIL
@@ -141,7 +141,7 @@ http://rftv.wtf/tp/rjiptv.mpd?contentID=391
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=968&key
-#EXTINF:-1 tvg-id=ts968 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-69018-kzo65wi0-v1/imageContent-69018-kzo65wi0-m2.png" group-title="Tata Sky",News Tamil 24x7
+#EXTINF:-1 tvg-id=ts968 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-69018-kzo65wi0-v1/imageContent-69018-kzo65wi0-m2.png" group-title=" ",News Tamil 24x7
 http://rftv.wtf/tp/rjiptv.mpd?contentID=968
 
 #EXTINF:-1,POLIMER NEWS
@@ -149,7 +149,7 @@ http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:c8:af:f1&stream=155902&exte
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=220&key
-#EXTINF:-1 tvg-id=ts220 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-882-j5mdrg4o-v1/imageContent-882-j5mdrg4o-m1.png" group-title="Tata Sky",Puthiya Thalaimurai
+#EXTINF:-1 tvg-id=ts220 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-882-j5mdrg4o-v1/imageContent-882-j5mdrg4o-m1.png" group-title=" ",Puthiya Thalaimurai
 http://rftv.wtf/tp/rjiptv.mpd?contentID=220
 
 #EXTINF:-1,SATHIYAM TV
@@ -157,7 +157,7 @@ http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:c8:af:f1&stream=155906&exte
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=44&key
-#EXTINF:-1 tvg-id=ts44 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-126-j5fnf4ig-v2/imageContent-126-j5fnf4ig-m2.png" group-title="Tata Sky",Seithigal TV
+#EXTINF:-1 tvg-id=ts44 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-126-j5fnf4ig-v2/imageContent-126-j5fnf4ig-m2.png" group-title=" ",Seithigal TV
 http://rftv.wtf/tp/rjiptv.mpd?contentID=44
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
