@@ -111,18 +111,10 @@ http://starshare.live:8080/live/123456/654321/66162.ts
 http://livetvbox.live:8080/live/Stanley/Stanley/9722.ts
 #EXTINF:-1,BIG BOSS 24*7 LIVE
 http://livetvbox.live:8080/live/Stanley/Stanley/223574.ts
-#EXTINF:-1,Isaiaruvi
-http://rftv.wtf/tp/rjiptv.mpd?contentID=647
-
-
-
-
-#EXTINF:-1 tvg-id=ts647 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-24578-jgotgry0-v1/imageContent-24578-jgotgry0-m1.png",Isaiaruvi
-http://rftv.wtf/tp/rjiptv.mpd?contentID=647
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=200&key
-#EXTINF:-1 tvg-id=ts200 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-819-j5m8fsfs-v1/imageContent-819-j5m8fsfs-m1.png" group-title="Tata Sky",Kalaignar TV
+#EXTINF:-1 tvg-id=ts200 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-819-j5m8fsfs-v1/imageContent-819-j5m8fsfs-m1.png" ,Kalaignar TV
 http://rftv.wtf/tp/rjiptv.mpd?contentID=200
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
